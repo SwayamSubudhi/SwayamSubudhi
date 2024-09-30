@@ -1,16 +1,53 @@
-## Hi there 👋
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Swayam Subudhi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times&pause=1000&center=true&width=435&lines=+++++++Being+a+coder+until+my+keyboard+dies" alt="Typing SVG" /></a>
+</h2>
+<br>
 
-<!--
-**SwayamSubudhi/SwayamSubudhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://visitcount.itsvg.in/api?id=Anish-Byte-Bot&icon=2&color=1)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Computer Science Student at <a href="https://www.soa.ac.in/iter">Iter
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![X :](https://x.com/Sub_boy09?t=5aQQvocgGpAQ6_Zj6cnX5Q&s=08)
+[![Linkedin:](https://www.linkedin.com/in/swayam-subudhi-001a511bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
+
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const swayam
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web designing", "tech", "web dev"],
+    
+        frontEnd: {
+            js: ["HTML", "CSS", "Javascript"],
+        },
+      
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+<!--# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anish-Byte-Bot&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anish-Byte-Bot&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Byte-Bot&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Anish-Byte-Bot&theme=algolia&no-frame=true&no-bg=false&margin-w=4) -->
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
